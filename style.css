@@ -1,0 +1,5 @@
+body{background-color: lightcoral; text-align: right;}
+h1{font-size: 50px; }
+h3{font-size: 40px; color: purple; }
+p{background-color: lightsalmon; font-size: 25px; }
+h1, h3{text-align: center;}
