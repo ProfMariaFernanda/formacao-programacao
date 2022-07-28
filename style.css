@@ -1,7 +1,13 @@
-body{background-color: rgb(244, 205, 205);}
-h1{text-align: center; font-size: 50px;}
-p{font-size: 20px; 
-    color: green;
-     font-family: Arial, Helvetica, sans-serif;}
-h3{text-align: center; font-size: 35px; color: blue}
-h1, h3{background-color: cornsilk;}
+h1, h3{text-align: center;}
+body{background-color: lightsalmon;}
+h1{font-size: 50px;}
+h3{font-size: 35px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    background-color: blue; color: white;
+
+}
+p{background-color: beige; font-size: 25px;}
+
+
+
+
