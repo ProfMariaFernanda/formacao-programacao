@@ -1,13 +1,10 @@
 h1, h3{text-align: center;}
-body{background-color: lightsalmon;}
-h1{font-size: 50px;}
+body{background-color: #A1EB7C;}
+h1{font-size: 50px; color: #9E4544; font-family: sans-serif;}
 h3{font-size: 35px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
-    background-color: blue; color: white;
+ color: rgb(235, 113, 113);
 
 }
-p{background-color: beige; font-size: 25px;}
-
-
-
-
+p{font-size: 25px; color: #7F649E; font-family: cursive;}
+span {color: #B688EB}
