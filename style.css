@@ -1,10 +1,11 @@
 h1, h3{text-align: center;}
-body{background-color: #A1EB7C;}
-h1{font-size: 50px; color: #9E4544; font-family: sans-serif;}
+body{background-color: #F5D7AB;}
+h1{font-size: 50px; font-family: Verdana, Geneva, Tahoma, sans-serif; color: #756752 }
 h3{font-size: 35px; 
     font-family: Verdana, Geneva, Tahoma, sans-serif; 
- color: rgb(235, 113, 113);
+    color: rgb(117, 103, 82);
 
 }
-p{font-size: 25px; color: #7F649E; font-family: cursive;}
-span {color: #B688EB}
+p{font-size: 25px; color: #362F25; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+span{color: #B59F7F}
