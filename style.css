@@ -7,7 +7,7 @@ h3{font-size: 35px;
 
 }
 p{font-size: 25px; color: #7F649E; font-family: cursive;}
-span {color: #B688EB; border: 5px solid grey; padding: 15px; margin: 60px}
+span {color: #B688EB; border: 5px solid red; margin: 50px;}
 
-#capa{width: 100%;}
-#turma{width: 75%; border: 20px solid grey; margin-left: 150px; margin:  60px}
+#cabeçalho{width: 100%; height: 200px;}
+#turma{width: 50%; margin-left: 330px; border: 10px solid #B688EB;}
