@@ -1,75 +1,35 @@
-h1,
-h3 {
-    text-align: center;
+h1, h3{text-align: center;}
+body{background-color: #ECB3CA;}
+h1{font-size: 50px; color: #542A3B; font-family: sans-serif;}
+h3{font-size: 35px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+ color: #A12054;
+        padding: 40px;
 }
-
-body {
-    background-color: #A1EB7C;
+p{font-size: 25px; color: #54112C; font-family: cursive;}
+span {color: #D42A6E;
+    ; margin: 40px;
 }
+#Capa{width: 100%; height: 200px; }
+#Turma{width: 70%; margin-left: 240px; border: 10px solid grey}
 
-h1 {
-    font-size: 50px;
-    color: #9E4544;
-    font-family: sans-serif;
-}
-
-h3 {
-    font-size: 35px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(235, 113, 113);
-    padding: 40px;
-}
-
-p {
+    h4{font-size: 35px; 
+        font-family: Verdana, Geneva, Tahoma, sans-serif; 
+     color: #54112C; text-align: center;}
+ul{color: #D42A6E; 
+    font-family: cursive; 
     font-size: 25px;
-    color: #7F649E;
-    font-family: cursive;
-}
-
-span {
-    color: #B688EB;
-    ;
-    margin: 40px;
-}
-
-#Capa {
-    width: 100%;
-    height: 200px;
-}
-
-#Turma {
-    width: 100%;
-}
-#logo-formadores{
-    margin-left: 300px;
-}
-
-h4 {
-    font-size: 35px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(235, 113, 113);
-    text-align: center;
-}
-
-ul {
-    color: #B688EB;
-    font-family: cursive;
-    font-size: 25px;
-    list-style-position: inside;
-    text-align: center;
-}
-h5{
-    font-size: 35px;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(235, 113, 113);
     text-align: left;
+    list-style-position: inside;
+    display:inline-block;
 }
+li::marker{font-size:25px; 
+    content: "\1F49C"; 
+    }
 
-li::marker{
-    font-size: 30px;
-    color:blueviolet;
-    content: "❤️";
-}
-.nossas-atividades{
-    background-color:lightgreen;
-}
+  .apresentação-atividades{background-color: #ECDCA;} 
+  #LogoForm{
+    display: inline;
+    width: 35%;
+    margin-left: 100px;
+  } 
