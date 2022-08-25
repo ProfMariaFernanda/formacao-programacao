@@ -33,14 +33,17 @@ span {
 }
 
 #Capa {
-    width: 100%;
+    width: 90%;
     height: 200px;
+    margin-left: 70px;
+    padding-top: 50px;
 }
 
 #Turma {
     width: 70%;
     margin-left: 240px;
-    border: 10px solid grey
+    border: 10px solid grey;
+    border-style: outset;
 }
 
 h4 {
@@ -64,6 +67,7 @@ h5{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #D42A6E; 
     text-align: center;
+    vertical-align: top ;
 }
 
 li::marker{
@@ -71,11 +75,13 @@ li::marker{
     color:blueviolet;
     content: "★";
 }
-.nossas-atividades{
-    background-color:#ECD4CA;
+
+h5, ul{
+    display: inline-block;
 }
-.LogoForm{
-    width: 37%;
-    vertical-align: text-bottom;
-    margin-left: 120px;
+.apresentação-atividades{
+    background-color: #ECD4CA;
+}
+.cabeçalho1{
+    border: 15px double #A12054;
 }
